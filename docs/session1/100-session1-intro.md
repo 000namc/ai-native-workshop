@@ -19,4 +19,4 @@
 
 ---
 
-이전: [← 000. 워크숍 소개](./000-overview.md) | 다음: [101. Claude 도구 이해하기 →](./101-claude-tools.md)
+이전: [← 000. 워크숍 소개](../000-overview.md) | 다음: [101. Claude 도구 이해하기 →](./101-claude-tools.md)

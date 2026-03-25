@@ -61,4 +61,4 @@ services:
 
 ---
 
-이전: [← 202. Git 기본](./202-git-basics.md) | 다음: [Session 3. 코딩 에이전트 기본 →](./300-session3-intro.md)
+이전: [← 202. Git 기본](./202-git-basics.md) | 다음: [Session 3. 코딩 에이전트 기본 →](../session3/300-session3-intro.md)

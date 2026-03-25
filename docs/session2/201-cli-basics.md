@@ -13,14 +13,23 @@ CLI(Command Line Interface)는 텍스트 명령어로 컴퓨터를 조작하는 
 - 개발 도구(Git, Docker 등)는 기본적으로 CLI로 사용합니다
 - CLI를 이해하면 에이전트가 하는 일을 읽을 수 있습니다
 
+## 실습 환경
+
+Session 2는 **Claude 앱의 Code 탭**에서 진행합니다.
+
+- 별도 터미널 프로그램을 열 필요 없습니다
+- `!명령어` 형식으로 터미널 명령어를 실행할 수 있습니다
+- 명령어에서 에러가 나면 Claude가 바로 도와줍니다
+
+```
+예시: !git clone https://github.com/내계정/my-repo.git
+```
+
 ## 핵심 개념
 
 ### 터미널이란?
 
-컴퓨터에게 텍스트로 명령을 내리는 창입니다.
-
-- Mac: Terminal 앱 또는 iTerm2
-- Windows: PowerShell 또는 Git Bash
+컴퓨터에게 텍스트로 명령을 내리는 창입니다. Claude 앱의 Code 탭도 터미널 역할을 합니다.
 
 ### 기본 명령어
 
@@ -44,7 +53,9 @@ CLI(Command Line Interface)는 텍스트 명령어로 컴퓨터를 조작하는 
 
 ## 따라해보기
 
-<!-- TODO: 간단한 CLI 실습 단계 작성 -->
+Claude 앱 Code 탭에서 아래 명령어를 `!` 접두사와 함께 실행해봅니다.
+
+<!-- TODO: 구체적 실습 단계 작성 -->
 
 ## 정리
 

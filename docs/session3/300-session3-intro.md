@@ -18,4 +18,4 @@
 
 ---
 
-이전: [← 203. Docker 기본](./203-docker-basics.md) | 다음: [301. 맥락 관리 →](./301-agent-context.md)
+이전: [← 203. Docker 기본](../session2/203-docker-basics.md) | 다음: [301. 맥락 관리 →](./301-agent-context.md)

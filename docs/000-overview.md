@@ -25,4 +25,4 @@ AI-Native 업무 환경을 이해하고, 코딩 에이전트를 세팅하여 직
 
 ---
 
-다음: [Session 1. AI 활용 →](./100-session1-intro.md)
+다음: [Session 1. AI 활용 →](./session1/100-session1-intro.md)
