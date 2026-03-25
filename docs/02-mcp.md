@@ -1,0 +1,31 @@
+# 02. MCP — 외부 서비스 연동
+
+> Session 1: AI 활용
+
+## 이것은 무엇인가요?
+
+MCP(Model Context Protocol)는 AI 모델이 외부 서비스(Notion, Slack, Figma 등)와 직접 소통할 수 있게 해주는 프로토콜입니다.
+
+## 왜 유용한가요?
+
+- AI가 Notion 페이지를 직접 읽고 정리할 수 있습니다
+- Slack 메시지를 요약하거나 작성할 수 있습니다
+- Figma 디자인을 읽고 코드로 변환할 수 있습니다
+
+## 데모
+
+### Notion, Slack, Mail 내용 정리 및 작성
+
+<!-- TODO: 데모 시나리오 작성 -->
+
+### Figma 플러그인 만들기
+
+<!-- TODO: 데모 시나리오 작성 -->
+
+## 핵심 포인트
+
+<!-- TODO: 정리 -->
+
+---
+
+이전: [← 01. Chrome Extension](./01-chrome-extension.md) | 다음: [03. App Script →](./03-app-script.md)
