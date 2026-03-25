@@ -18,4 +18,4 @@
 
 ---
 
-이전: [← 106. Code Agent](./106-code-agent-intro.md) | 다음: [201. CLI 기본 →](./201-cli-basics.md)
+이전: [← 105. Webhook & Cron](./105-webhook-cron.md) | 다음: [201. CLI 기본 →](./201-cli-basics.md)

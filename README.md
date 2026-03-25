@@ -29,7 +29,6 @@
 | 103 | [App Script](./docs/103-app-script.md) | 구글 시트 내에 GPT 사용하기 |
 | 104 | [MCP](./docs/104-mcp.md) | Notion, Slack, Mail 연동 / Figma 플러그인 |
 | 105 | [Webhook & Cron](./docs/105-webhook-cron.md) | 이메일 초안 작성 / 업무 요약 자동화 |
-| 106 | [Code Agent](./docs/106-code-agent-intro.md) | 업무 도구 웹앱 만들기 |
 
 ### Session 2 — 개발 환경 기본 (1시간)
 
