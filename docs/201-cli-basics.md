@@ -1,4 +1,4 @@
-# 06. CLI 기본 — 터미널 환경 이해하기
+# 201. CLI 기본 — 터미널 환경 이해하기
 
 > Session 2: 개발 환경 기본
 
@@ -53,4 +53,4 @@ CLI(Command Line Interface)는 텍스트 명령어로 컴퓨터를 조작하는 
 
 ---
 
-이전: [← 05. Code Agent](./05-code-agent-intro.md) | 다음: [07. Git 기본 →](./07-git-basics.md)
+이전: [← 106. Code Agent](./106-code-agent-intro.md) | 다음: [202. Git 기본 →](./202-git-basics.md)

@@ -1,4 +1,4 @@
-# 08. Docker 기본 — 개발환경 세팅법
+# 203. Docker 기본 — 개발환경 세팅법
 
 > Session 2: 개발 환경 기본
 
@@ -61,4 +61,4 @@ services:
 
 ---
 
-이전: [← 07. Git 기본](./07-git-basics.md) | 다음: [09. 맥락 관리 →](./09-agent-context.md)
+이전: [← 202. Git 기본](./202-git-basics.md) | 다음: [301. 맥락 관리 →](./301-agent-context.md)

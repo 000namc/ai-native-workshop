@@ -1,4 +1,4 @@
-# 05. Code Agent — 업무 도구 웹앱 만들기
+# 106. Code Agent — 업무 도구 웹앱 만들기
 
 > Session 1: AI 활용
 
@@ -21,4 +21,4 @@
 
 ---
 
-이전: [← 04. Webhook & Cron](./04-webhook-cron.md) | 다음: [06. CLI 기본 →](./06-cli-basics.md)
+이전: [← 105. Webhook & Cron](./105-webhook-cron.md) | 다음: [201. CLI 기본 →](./201-cli-basics.md)

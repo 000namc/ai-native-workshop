@@ -1,4 +1,4 @@
-# 11. 에이전트 + 도구 — Docker, Git 연동 활용
+# 303. 에이전트 + 도구 — Docker, Git 연동 활용
 
 > Session 3: 코딩 에이전트 기본
 
@@ -58,4 +58,4 @@
 
 ---
 
-이전: [← 10. 작업환경 설계](./10-agent-workspace.md)
+이전: [← 302. 작업환경 설계](./302-agent-workspace.md)

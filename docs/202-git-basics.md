@@ -1,4 +1,4 @@
-# 07. Git 기본 — 버전관리 개념 이해하기
+# 202. Git 기본 — 버전관리 개념 이해하기
 
 > Session 2: 개발 환경 기본
 
@@ -67,4 +67,4 @@ main ─────────────────────────
 
 ---
 
-이전: [← 06. CLI 기본](./06-cli-basics.md) | 다음: [08. Docker 기본 →](./08-docker-basics.md)
+이전: [← 201. CLI 기본](./201-cli-basics.md) | 다음: [203. Docker 기본 →](./203-docker-basics.md)

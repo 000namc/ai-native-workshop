@@ -1,4 +1,4 @@
-# 01. Chrome Extension — QA 자동화
+# 102. Chrome Extension — QA 자동화
 
 > Session 1: AI 활용
 
@@ -20,4 +20,4 @@ Chrome Extension(크롬 확장 프로그램)을 활용해 반복적인 QA 작업
 
 ---
 
-이전: [← 00. 워크숍 소개](./00-overview.md) | 다음: [02. MCP →](./02-mcp.md)
+이전: [← 101. Claude 도구 이해하기](./101-claude-tools.md) | 다음: [103. App Script →](./103-app-script.md)

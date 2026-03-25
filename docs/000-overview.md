@@ -1,4 +1,4 @@
-# 00. 워크숍 소개
+# 000. 워크숍 소개
 
 ## 이 워크숍은 무엇인가요?
 
@@ -25,4 +25,4 @@ AI-Native 업무 환경을 이해하고, 코딩 에이전트를 세팅하여 직
 
 ---
 
-다음: [01. Chrome Extension →](./01-chrome-extension.md)
+다음: [101. Claude 도구 이해하기 →](./101-claude-tools.md)

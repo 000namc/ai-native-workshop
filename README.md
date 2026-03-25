@@ -23,12 +23,13 @@
 
 | # | 모듈 | 내용 |
 |---|------|------|
-| 00 | [워크숍 소개](./docs/00-overview.md) | 워크숍 목표, 진행 방식 안내 |
-| 01 | [Chrome Extension](./docs/01-chrome-extension.md) | QA 자동화 |
-| 02 | [MCP](./docs/02-mcp.md) | Notion, Slack, Mail 연동 / Figma 플러그인 |
-| 03 | [App Script](./docs/03-app-script.md) | 구글 시트 내에 GPT 사용하기 |
-| 04 | [Webhook & Cron](./docs/04-webhook-cron.md) | 이메일 초안 작성 / 업무 요약 자동화 |
-| 05 | [Code Agent](./docs/05-code-agent-intro.md) | 업무 도구 웹앱 만들기 |
+| 000 | [워크숍 소개](./docs/000-overview.md) | 워크숍 목표, 진행 방식 안내 |
+| 101 | [Claude 도구 이해하기](./docs/101-claude-tools.md) | Chat / Cowork / Code 차이 |
+| 102 | [Chrome Extension](./docs/102-chrome-extension.md) | QA 자동화 |
+| 103 | [App Script](./docs/103-app-script.md) | 구글 시트 내에 GPT 사용하기 |
+| 104 | [MCP](./docs/104-mcp.md) | Notion, Slack, Mail 연동 / Figma 플러그인 |
+| 105 | [Webhook & Cron](./docs/105-webhook-cron.md) | 이메일 초안 작성 / 업무 요약 자동화 |
+| 106 | [Code Agent](./docs/106-code-agent-intro.md) | 업무 도구 웹앱 만들기 |
 
 ### Session 2 — 개발 환경 기본 (1시간)
 
@@ -36,9 +37,9 @@
 
 | # | 모듈 | 내용 |
 |---|------|------|
-| 06 | [CLI 기본](./docs/06-cli-basics.md) | 터미널 환경 이해하기 |
-| 07 | [Git 기본](./docs/07-git-basics.md) | 버전관리 개념 이해하기 |
-| 08 | [Docker 기본](./docs/08-docker-basics.md) | 개발환경 세팅법 |
+| 201 | [CLI 기본](./docs/201-cli-basics.md) | 터미널 환경 이해하기 |
+| 202 | [Git 기본](./docs/202-git-basics.md) | 버전관리 개념 이해하기 |
+| 203 | [Docker 기본](./docs/203-docker-basics.md) | 개발환경 세팅법 |
 
 ### Session 3 — 코딩 에이전트 기본 (30분)
 
@@ -46,9 +47,9 @@
 
 | # | 모듈 | 내용 |
 |---|------|------|
-| 09 | [맥락 관리](./docs/09-agent-context.md) | agent.md 파일 작성법 |
-| 10 | [작업환경 설계](./docs/10-agent-workspace.md) | 에이전트가 일하기 편한 환경 |
-| 11 | [에이전트 + 도구](./docs/11-agent-tools.md) | Docker, Git 연동 활용 |
+| 301 | [맥락 관리](./docs/301-agent-context.md) | agent.md 파일 작성법 |
+| 302 | [작업환경 설계](./docs/302-agent-workspace.md) | 에이전트가 일하기 편한 환경 |
+| 303 | [에이전트 + 도구](./docs/303-agent-tools.md) | Docker, Git 연동 활용 |
 
 ---
 
