@@ -55,3 +55,9 @@
 ## 사전 준비
 
 워크숍 참여 전 [사전 준비 가이드](./pre-workshop/)를 확인해주세요.
+
+---
+
+## Thanks to
+
+- [isnbh0/git-cli-workshop](https://github.com/isnbh0/git-cli-workshop) — 워크숍 구성 및 자료 형식에 큰 영감을 받았습니다.
