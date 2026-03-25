@@ -25,4 +25,4 @@ AI-Native 업무 환경을 이해하고, 코딩 에이전트를 세팅하여 직
 
 ---
 
-다음: [101. Claude 도구 이해하기 →](./101-claude-tools.md)
+다음: [Session 1. AI 활용 →](./100-session1-intro.md)

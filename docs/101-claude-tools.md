@@ -23,4 +23,4 @@ Claude에는 여러 도구가 있고, 각각 할 수 있는 일이 다릅니다.
 
 ---
 
-이전: [← 000. 워크숍 소개](./000-overview.md) | 다음: [102. Chrome Extension →](./102-chrome-extension.md)
+이전: [← Session 1 소개](./100-session1-intro.md) | 다음: [102. Chrome Extension →](./102-chrome-extension.md)

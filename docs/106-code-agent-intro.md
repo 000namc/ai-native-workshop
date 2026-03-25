@@ -21,4 +21,4 @@
 
 ---
 
-이전: [← 105. Webhook & Cron](./105-webhook-cron.md) | 다음: [201. CLI 기본 →](./201-cli-basics.md)
+이전: [← 105. Webhook & Cron](./105-webhook-cron.md) | 다음: [Session 2. 개발 환경 기본 →](./200-session2-intro.md)

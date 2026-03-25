@@ -53,4 +53,4 @@ CLI(Command Line Interface)는 텍스트 명령어로 컴퓨터를 조작하는 
 
 ---
 
-이전: [← 106. Code Agent](./106-code-agent-intro.md) | 다음: [202. Git 기본 →](./202-git-basics.md)
+이전: [← Session 2 소개](./200-session2-intro.md) | 다음: [202. Git 기본 →](./202-git-basics.md)
