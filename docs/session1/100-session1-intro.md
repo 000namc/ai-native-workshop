@@ -12,10 +12,10 @@
 | # | 모듈 | 내용 |
 |---|------|------|
 | 101 | [Claude 도구 이해하기](./101-claude-tools.md) | Chat / Cowork / Code 차이 |
-| 102 | [Chrome Extension](./102-chrome-extension.md) | QA 자동화 |
-| 103 | [App Script](./103-app-script.md) | 구글 시트 내에 GPT 사용하기 |
-| 104 | [MCP](./104-mcp.md) | Notion, Slack, Mail 연동 / Figma 플러그인 |
-| 105 | [Webhook & Cron](./105-webhook-cron.md) | 이메일 초안 작성 / 업무 요약 자동화 |
+| 102 | [Chrome Extension](./102-chrome-extension.md) | 사내 서비스 QA 자동화 (UI 검수, 유저 플로우, 디자인 비교) |
+| 103 | [App Script](./103-app-script.md) | Gmail 라벨링, Sheets GPT 커스텀 함수 |
+| 104 | [MCP](./104-mcp.md) | Slack / Notion / Figma 연동, Figma 플러그인 만들기 |
+| 105 | [Webhook & Cron](./105-webhook-cron.md) | PR 머지 → 릴리즈 노트, 매일 업무 요약 자동화 |
 
 ---
 
