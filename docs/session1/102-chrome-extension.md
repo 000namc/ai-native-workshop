@@ -31,7 +31,6 @@ Chrome Extension에게 Google Slides 문서 작성을 맡깁니다.
 
 - Chrome Extension = AI가 내 브라우저 안에서 직접 동작
 - 내부망 서비스의 QA를 자동화할 수 있다
-- 로컬 환경에서 서비스를 실행할 수 있다면, Playwright(Claude Code 연동)로도 같은 작업이 가능
 
 ---
 
