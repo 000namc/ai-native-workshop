@@ -66,7 +66,7 @@ function callGPT(subject, body, from) {
 
 // 미분류 메일 분류
 function classifyEmails() {
-  const threads = GmailApp.search('is:inbox -has:userlabels', 0, 10);
+  const threads = GmailApp.search('newer_than:7d', 0, 10);
   let successCount = 0;
 
   for (const thread of threads) {

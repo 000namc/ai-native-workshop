@@ -1,0 +1,7 @@
+{
+  "name": "페이지 번호 자동 업데이트",
+  "id": "page-numbering-updater-v1",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": ["figma"]
+}
