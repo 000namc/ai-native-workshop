@@ -19,7 +19,7 @@ Chrome Extension(크롬 확장 프로그램)을 활용해 반복적인 QA 작업
 
 Chrome Extension에게 Google Slides 문서 작성을 맡깁니다.
 
-<!-- TODO: 구체적 시연 단계 -->
+![Google Slides 생성 데모](../../image/102-1.png)
 
 ### 2. 사내 서비스 QA
 
