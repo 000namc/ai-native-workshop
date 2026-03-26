@@ -55,7 +55,56 @@ Session 2는 **Claude 앱의 Code 탭**에서 진행합니다.
 
 Claude 앱 Code 탭에서 아래 명령어를 `!` 접두사와 함께 실행해봅니다.
 
-<!-- TODO: 구체적 실습 단계 작성 -->
+### 1. 현재 위치 확인
+
+```bash
+!pwd
+```
+
+지금 내가 어느 폴더에 있는지 보여줍니다. (예: `/Users/내이름`)
+
+### 2. 파일/폴더 목록 보기
+
+```bash
+!ls
+```
+
+현재 폴더에 뭐가 있는지 보여줍니다.
+
+### 3. 폴더 이동 후 목록 보기
+
+```bash
+!cd Desktop && ls
+```
+
+바탕화면 폴더로 이동해서 안에 뭐가 있는지 봅니다.
+
+### 4. 새 폴더 만들기
+
+```bash
+!mkdir my-test-folder
+!ls
+```
+
+`my-test-folder`라는 폴더가 새로 생긴 걸 확인할 수 있습니다.
+
+### 5. 파일 만들고 내용 확인하기
+
+```bash
+!echo "안녕하세요" > my-test-folder/hello.txt
+!cat my-test-folder/hello.txt
+```
+
+`hello.txt` 파일을 만들고, `cat`으로 내용을 확인합니다.
+
+### 6. 정리
+
+```bash
+!rm -r my-test-folder
+!ls
+```
+
+실습용 폴더를 삭제합니다. 목록에서 사라진 걸 확인하세요.
 
 ## 정리
 
